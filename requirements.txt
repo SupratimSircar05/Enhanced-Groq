@@ -1,0 +1,15 @@
+streamlit 
+groq 
+langchain 
+pypdf2 
+faiss-cpu 
+requests 
+SpeechRecognition 
+pyttsx3 
+google-search-results
+watchdog
+langchain-community
+sentence-transformers
+langchain-groq
+unstructured
+"unstructured[pdf]"
