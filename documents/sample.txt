@@ -1,0 +1,1 @@
+sample file for input to the RAG model
